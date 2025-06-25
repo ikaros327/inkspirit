@@ -1,4 +1,4 @@
-# inkspirit
+# InkSpirit
 A dataset of expert-annotated data including the Blank Space Standard and PostScript corpus, the pre-trained T2I model will be uploaded in the subsequent steps  
   
 
