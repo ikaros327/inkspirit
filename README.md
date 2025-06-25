@@ -52,11 +52,9 @@ Link: [https://pan.baidu.com/s/12Zq-_Rv1K5hoZCmmyP58WQ](https://pan.baidu.com/s/
 
 <font style="color:rgb(28, 31, 35);"></font>
 
-# 4.TCP T2I Training Set + Annotation Data
+# 4.TCP T2I Training Set + Annotation Data + pre-trained models
 1. English annotation files corresponding to all TCP images
-
 2. all dimension categories - all corresponding images included under the specific annotation category.
-
 3. cutting image with the same size.
 
 
