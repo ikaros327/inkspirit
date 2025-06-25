@@ -1,5 +1,5 @@
 # InkSpirit
-A dataset of expert-annotated data including the Blank Space Standard and PostScript corpus, the pre-trained T2I model will be uploaded in the subsequent steps  
+Datasets of expert-annotated  TCP(Triditional Chinese Painting) data including the Blank Space Standard and PostScript corpus, the pre-trained T2I model will be uploaded in the subsequent steps  
   
 
 About InkSpirit：  
