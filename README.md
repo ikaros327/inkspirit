@@ -8,7 +8,7 @@ The key idea is to employ an expert knowledge-driven strategy to address the TCP
 Specifically, a TCP dataset, an artistic conception-inscription corpus, and a generation framework based on ComfyUI workflow for precise element control have been developed.   
 Extensive experiments have been conducted to demonstrate the effectiveness of the proposed system.
 
-**We will improve the form of this open source project in the future. At present, we will first provide the following data sets：**
+**We will improve the form of this open source project in the future. At present, we first provide the following data sets：**
 
 # <font style="color:rgb(28, 31, 35);">1.Full-image paintings</font>
 <font style="color:rgb(28, 31, 35);">From 1,834 annotated Song Dynasty TCPs, we selected the full-image paintings, excluding factors related to the mounting of calligraphy and paintings, and manually cropped the central part of the images.</font>
